@@ -1,0 +1,1472 @@
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll.config
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\ProyectoIngenieria.pdb
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaDeNegocios.pdb
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\CapaAccesoDatos.dll.config
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.dll
+C:\Users\Admin\Desktop\ProyectoIngenieria\ProyectoIngenieria\obj\Debug\ProyectoIngenieria.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\ProyectoIngenieria\bin\Microsoft.AspNet.FriendlyUrls.xml

@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Administrador.Master.cs" Inherits="ProyectoIngenieria.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Distribuidora FyJ</title>
+    <script src="https://kit.fontawesome.com/cc495437f0.js" crossorigin="anonymous"></script>
+    <asp:PlaceHolder runat="server"></asp:PlaceHolder>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="stylesheet" href="vendor/EstilosMaster.css" />
+    <link href="vendor/EstilosMaster.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form runat="server">
+
+        <div class="d-flex" id="wrapper">
+            <div class="bg-light border-light fondoMenu" id="sidebar-wrapper">
+                <div class="divMaster">
+                    <img src="../Imagenes/Log in logo.png" width="30" height="30" />
+                    Administrador
+                </div>
+
+                <div class="list-group list-group-flush">
+                    <a href="../Bodega/BodegaAdministrador.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Bodega</a>
+                    <a href="../Cliente/ClienteAdministrador.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Cliente</a>
+                    <a href="../Cuenta/CuentaAdministrador.aspx" id="btnCuenta" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Cuenta</a>
+                    <a href="../Factura/FacturaAdministrador.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Factura</a>
+                    <a href="../Informe/InformeAdministrador.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Informe</a>
+                    <a href="../Producto/ProductoAdministrador.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Producto</a>
+                    <a href="../Ruta/RutaAdministrador.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Ruta</a>
+                    <a href="../Usuario/UsuarioAdministrador.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color: white">Usuario</a>
+                </div>
+                <hr />
+                <footer class="col-12">
+                    <img src="../Imagenes/Logo.png" width="200" height="60" />
+                    <div class="align-content-md-start">
+                        <%--<p>&copy; Distribuidora F y J <%: DateTime.Now.Year %></p>--%>
+                    </div>
+
+                </footer>
+            </div>
+
+
+            <div id="page-content-wrapper">
+                <div class="encabezado">
+                    <nav class="navbar">
+                        <div>
+                            <button type="button" id="menu-toggle" class="hamburguesa">
+                                <i class="fa fa-bars"></i>
+                                <span class="sr-only">Toggle Menu</span>
+                            </button>
+                        </div>
+                        <div>
+                            <a href="/InicioSesion.aspx"><i class="fad fas fa-sign-out-alt"></i></a>
+                            <%--<Button runat="server" style="background-color:transparent; border:none" onclick="logout()">
+                                <i class="fad fas fa-sign-out-alt"></i>
+                            </Button>--%>
+                        </div>
+                    </nav>
+                </div>
+
+                <div class="container body-content">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+
+            </div>
+
+        </div>
+
+        <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="../vendor/jquery/jquery.min.js"></script>
+
+        <script>
+            $("#menu-toggle").click(function (e) {
+                e.preventDefault();
+                $("#wrapper").toggleClass("toggled");
+
+            });
+        </script>
+        <style>
+            .fad {
+                color: white;
+/*                background-color: #0E2635;
+*/            }
+
+        </style>
+
+    </form>
+</body>
+</html>

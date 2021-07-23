@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AgenteMaster.master.cs" Inherits="ProyectoIngenieria.Agente.AgenteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Distribuidora FyJ</title>
+    <asp:PlaceHolder runat="server"></asp:PlaceHolder>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link href="vendor/EstilosAgenteMaster.css" rel="stylesheet" />
+</head>
+<body>
+    <form runat="server">
+
+        <div class="d-flex" id="wrapper2" >
+            <div class="bg-light border-light fondoMenu" id="sidebar-wrapper">
+
+                <div class="divMaster">
+                    <img src="../Imagenes/Log in logo.png" width="30" height="30" />
+                    Agente de Ventas </div>
+                <div class="list-group list-group-flush">
+                    <a href="../Cuenta/CuentaAgente.aspx" id="btnCuenta" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color:white">Cuenta</a>
+                    <a href="../Factura/FacturaAgente.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color:white">Factura</a>
+                    <a href="../CierreCaja/CierreDeCaja.aspx" class="colorMenuAdministrador1 colorMenuAdministrador2 colorMenuAdministrador3" style="color:white">Cierre de caja</a>
+
+                </div>
+                <hr/>
+                <footer class="col-12">
+                    <img src="../Imagenes/Logo.png" width="200" height="60"/>
+                    <div class="align-content-md-start">
+                         <p>&copy; Distribuidora F y J <%: DateTime.Now.Year %></p>
+                    </div>
+
+                </footer>
+            </div>
+            
+
+            <div id="page-content-wrapper" >
+                <div class="encabezado" >
+                    <nav class="navbar" >
+                        <div>
+                            <button type="button" id="menu-toggle2" class="hamburguesa">
+                                <i class="fa fa-bars"></i>
+                                <span class="sr-only">Toggle Menu</span>
+                            </button>
+                        </div>
+                        <div>
+                            <a href="/InicioSesion.aspx"><i class="fad fas fa-sign-out-alt"></i></a>
+                        </div>
+                    </nav>
+                </div>
+
+                <div class="container body-content" >
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+
+            </div>
+
+        </div>
+        
+        <script src="vendor/bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="vendor/jquery/jquery.min.js"></script>
+
+        <script>
+            $("#menu-toggle2").click(function (eje) {
+                eje.preventDefault();
+                $("#wrapper2").toggleClass("toggled");
+            });
+        </script>
+        <style>
+            .fad {
+                color: white;
+                background-color: #0E2635;
+            }
+        </style>
+    </form>
+</body>
+</html>

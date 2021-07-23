@@ -1,0 +1,144 @@
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\V 09-06 2345\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\prica\Downloads\V 15-06 2121\V 16-06  1630\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb

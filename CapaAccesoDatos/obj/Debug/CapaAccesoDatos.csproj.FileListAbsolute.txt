@@ -1,0 +1,389 @@
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\source\repos\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\V 03-06. 19,42pm\ProyectoIngenieria\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 08-06 1715\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\V 08-06 2110\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\maiko\OneDrive\Escritorio\New folder (3)\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\prica\OneDrive\Escritorio\V 09-06 1615\V 09-06 1137\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\prica\Downloads\V 15-06 2121\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Admin\Downloads\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

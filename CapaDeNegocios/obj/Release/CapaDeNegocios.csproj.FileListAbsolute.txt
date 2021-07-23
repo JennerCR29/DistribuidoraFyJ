@@ -1,0 +1,12 @@
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Release\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Release\CapaDeNegocios.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Release\CapaAccesoDatos.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Release\EntityFramework.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Release\CapaAccesoDatos.pdb
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Release\CapaAccesoDatos.dll.config
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\bin\Release\EntityFramework.xml
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Release\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Release\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Release\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Release\CapaDeNegocios.dll
+C:\Users\Jenner\Desktop\ProyectoIngenieria\CapaDeNegocios\obj\Release\CapaDeNegocios.pdb

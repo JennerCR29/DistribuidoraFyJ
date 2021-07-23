@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbdistribuidorafyjModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Cuenta">
+    <Key>
+      <PropertyRef Name="cuentaID" />
+    </Key>
+    <Property Name="cuentaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tipo" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="fechaCreacion" Type="datetime" Nullable="false" />
+    <Property Name="FK_clienteID" Type="int" Nullable="false" />
+    <Property Name="FK_nombreUsuario" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Factura">
+    <Key>
+      <PropertyRef Name="facturaID" />
+    </Key>
+    <Property Name="facturaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fecha" Type="datetime" Nullable="false" />
+    <Property Name="descuento" Type="tinyint" Nullable="false" />
+    <Property Name="total" Type="money" Nullable="false" />
+    <Property Name="saldo" Type="money" Nullable="false" />
+    <Property Name="FK_cuentaID" Type="int" Nullable="false" />
+    <Property Name="FK_informeID" Type="int" />
+    <Property Name="activoSN" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Informe">
+    <Key>
+      <PropertyRef Name="informeID" />
+    </Key>
+    <Property Name="informeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fecha" Type="datetime" Nullable="false" />
+    <Property Name="saldo" Type="money" Nullable="false" />
+    <Property Name="total" Type="money" Nullable="false" />
+    <Property Name="FK_nombreUsuario" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LineaPedido">
+    <Key>
+      <PropertyRef Name="lineaPedidoID" />
+    </Key>
+    <Property Name="lineaPedidoID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="subtotal" Type="money" Nullable="false" />
+    <Property Name="cantidad" Type="int" Nullable="false" />
+    <Property Name="descuento" Type="int" Nullable="false" />
+    <Property Name="FK_facturaID" Type="int" Nullable="false" />
+    <Property Name="FK_productoID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Bodega">
+    <Key>
+      <PropertyRef Name="bodegaID" />
+    </Key>
+    <Property Name="bodegaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ubicacion" Type="nvarchar" MaxLength="300" Nullable="false" />
+    <Property Name="activoSN" Type="bit" Nullable="false" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'dbdistribuidorafyj.Inventario.BodegaProducto' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="BodegaProducto">
+    <Key>
+      <PropertyRef Name="fechaIngresoBodega" />
+      <PropertyRef Name="cantidad" />
+      <PropertyRef Name="FK_productoID" />
+      <PropertyRef Name="FK_bodegaID" />
+    </Key>
+    <Property Name="fechaIngresoBodega" Type="datetime" Nullable="false" />
+    <Property Name="cantidad" Type="int" Nullable="false" />
+    <Property Name="FK_productoID" Type="int" Nullable="false" />
+    <Property Name="FK_bodegaID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="productoID" />
+    </Key>
+    <Property Name="productoID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="descripcion" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="tipo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="precioCosto" Type="money" Nullable="false" />
+    <Property Name="precioCostoAgente" Type="money" Nullable="false" />
+    <Property Name="precioVenta" Type="money" Nullable="false" />
+    <Property Name="precioBaseVenta" Type="money" Nullable="false" />
+    <Property Name="activoSN" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ruta">
+    <Key>
+      <PropertyRef Name="rutaID" />
+    </Key>
+    <Property Name="rutaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FK_nombreUsuario" Type="nvarchar" MaxLength="50" />
+    <Property Name="activoSN" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="clienteID" />
+    </Key>
+    <Property Name="clienteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="contacto" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FK_rutaID" Type="int" Nullable="false" />
+    <Property Name="FK_personaID" Type="int" Nullable="false" />
+    <Property Name="activoSN" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="personaID" />
+    </Key>
+    <Property Name="personaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Rol">
+    <Key>
+      <PropertyRef Name="rolID" />
+    </Key>
+    <Property Name="rolID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="descripcion" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="nombreUsuario" />
+    </Key>
+    <Property Name="nombreUsuario" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="contrasena" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FK_bodegaID" Type="int" Nullable="false" />
+    <Property Name="FK_personaID" Type="int" Nullable="false" />
+    <Property Name="FK_rolID" Type="int" Nullable="false" />
+    <Property Name="activoSN" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_BodegaProducto_Bodega">
+    <End Role="Bodega" Type="Self.Bodega" Multiplicity="1" />
+    <End Role="BodegaProducto" Type="Self.BodegaProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bodega">
+        <PropertyRef Name="bodegaID" />
+      </Principal>
+      <Dependent Role="BodegaProducto">
+        <PropertyRef Name="FK_bodegaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BodegaProducto_Producto">
+    <End Role="Producto" Type="Self.Producto" Multiplicity="1" />
+    <End Role="BodegaProducto" Type="Self.BodegaProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="productoID" />
+      </Principal>
+      <Dependent Role="BodegaProducto">
+        <PropertyRef Name="FK_productoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cliente_Persona">
+    <End Role="Persona" Type="Self.Persona" Multiplicity="1" />
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="personaID" />
+      </Principal>
+      <Dependent Role="Cliente">
+        <PropertyRef Name="FK_personaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cliente_Ruta">
+    <End Role="Ruta" Type="Self.Ruta" Multiplicity="1" />
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ruta">
+        <PropertyRef Name="rutaID" />
+      </Principal>
+      <Dependent Role="Cliente">
+        <PropertyRef Name="FK_rutaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cuenta_Cliente">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Cuenta" Type="Self.Cuenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="clienteID" />
+      </Principal>
+      <Dependent Role="Cuenta">
+        <PropertyRef Name="FK_clienteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cuenta_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Cuenta" Type="Self.Cuenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="nombreUsuario" />
+      </Principal>
+      <Dependent Role="Cuenta">
+        <PropertyRef Name="FK_nombreUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Factura_Cuenta">
+    <End Role="Cuenta" Type="Self.Cuenta" Multiplicity="1" />
+    <End Role="Factura" Type="Self.Factura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cuenta">
+        <PropertyRef Name="cuentaID" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="FK_cuentaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Factura_Informe">
+    <End Role="Informe" Type="Self.Informe" Multiplicity="0..1" />
+    <End Role="Factura" Type="Self.Factura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Informe">
+        <PropertyRef Name="informeID" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="FK_informeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Informe_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Informe" Type="Self.Informe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="nombreUsuario" />
+      </Principal>
+      <Dependent Role="Informe">
+        <PropertyRef Name="FK_nombreUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LineaProducto_Factura">
+    <End Role="Factura" Type="Self.Factura" Multiplicity="1" />
+    <End Role="LineaPedido" Type="Self.LineaPedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Factura">
+        <PropertyRef Name="facturaID" />
+      </Principal>
+      <Dependent Role="LineaPedido">
+        <PropertyRef Name="FK_facturaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LineaProducto_Producto">
+    <End Role="Producto" Type="Self.Producto" Multiplicity="1" />
+    <End Role="LineaPedido" Type="Self.LineaPedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="productoID" />
+      </Principal>
+      <Dependent Role="LineaPedido">
+        <PropertyRef Name="FK_productoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ruta_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="0..1" />
+    <End Role="Ruta" Type="Self.Ruta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="nombreUsuario" />
+      </Principal>
+      <Dependent Role="Ruta">
+        <PropertyRef Name="FK_nombreUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Bodega">
+    <End Role="Bodega" Type="Self.Bodega" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bodega">
+        <PropertyRef Name="bodegaID" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="FK_bodegaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Persona">
+    <End Role="Persona" Type="Self.Persona" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="personaID" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="FK_personaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Rol">
+    <End Role="Rol" Type="Self.Rol" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rol">
+        <PropertyRef Name="rolID" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="FK_rolID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dbdistribuidorafyjModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cuenta" EntityType="Self.Cuenta" Schema="Facturacion" store:Type="Tables" />
+    <EntitySet Name="Factura" EntityType="Self.Factura" Schema="Facturacion" store:Type="Tables" />
+    <EntitySet Name="Informe" EntityType="Self.Informe" Schema="Facturacion" store:Type="Tables" />
+    <EntitySet Name="LineaPedido" EntityType="Self.LineaPedido" Schema="Facturacion" store:Type="Tables" />
+    <EntitySet Name="Bodega" EntityType="Self.Bodega" Schema="Inventario" store:Type="Tables" />
+    <EntitySet Name="Producto" EntityType="Self.Producto" Schema="Inventario" store:Type="Tables" />
+    <EntitySet Name="Ruta" EntityType="Self.Ruta" Schema="Inventario" store:Type="Tables" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="Persona" store:Type="Tables" />
+    <EntitySet Name="Persona" EntityType="Self.Persona" Schema="Persona" store:Type="Tables" />
+    <EntitySet Name="Rol" EntityType="Self.Rol" Schema="Persona" store:Type="Tables" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" Schema="Persona" store:Type="Tables" />
+    <EntitySet Name="BodegaProducto" EntityType="Self.BodegaProducto" store:Type="Tables" store:Schema="Inventario">
+      <DefiningQuery>SELECT 
+    [BodegaProducto].[fechaIngresoBodega] AS [fechaIngresoBodega], 
+    [BodegaProducto].[cantidad] AS [cantidad], 
+    [BodegaProducto].[FK_productoID] AS [FK_productoID], 
+    [BodegaProducto].[FK_bodegaID] AS [FK_bodegaID]
+    FROM [Inventario].[BodegaProducto] AS [BodegaProducto]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_BodegaProducto_Bodega" Association="Self.FK_BodegaProducto_Bodega">
+      <End Role="Bodega" EntitySet="Bodega" />
+      <End Role="BodegaProducto" EntitySet="BodegaProducto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BodegaProducto_Producto" Association="Self.FK_BodegaProducto_Producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="BodegaProducto" EntitySet="BodegaProducto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cliente_Persona" Association="Self.FK_Cliente_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Cliente" EntitySet="Cliente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cliente_Ruta" Association="Self.FK_Cliente_Ruta">
+      <End Role="Ruta" EntitySet="Ruta" />
+      <End Role="Cliente" EntitySet="Cliente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cuenta_Cliente" Association="Self.FK_Cuenta_Cliente">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Cuenta" EntitySet="Cuenta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cuenta_Usuario" Association="Self.FK_Cuenta_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Cuenta" EntitySet="Cuenta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Factura_Cuenta" Association="Self.FK_Factura_Cuenta">
+      <End Role="Cuenta" EntitySet="Cuenta" />
+      <End Role="Factura" EntitySet="Factura" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Factura_Informe" Association="Self.FK_Factura_Informe">
+      <End Role="Informe" EntitySet="Informe" />
+      <End Role="Factura" EntitySet="Factura" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Informe_Usuario" Association="Self.FK_Informe_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Informe" EntitySet="Informe" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LineaProducto_Factura" Association="Self.FK_LineaProducto_Factura">
+      <End Role="Factura" EntitySet="Factura" />
+      <End Role="LineaPedido" EntitySet="LineaPedido" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LineaProducto_Producto" Association="Self.FK_LineaProducto_Producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="LineaPedido" EntitySet="LineaPedido" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ruta_Usuario" Association="Self.FK_Ruta_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Ruta" EntitySet="Ruta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Bodega" Association="Self.FK_Usuario_Bodega">
+      <End Role="Bodega" EntitySet="Bodega" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Persona" Association="Self.FK_Usuario_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Rol" Association="Self.FK_Usuario_Rol">
+      <End Role="Rol" EntitySet="Rol" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
